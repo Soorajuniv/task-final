@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048237789254",
+    "project_id": "bookmyhotel-1",
+    "storage_bucket": "bookmyhotel-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048237789254:android:87eed14703673de25e7a47",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.aad.studentNumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048237789254-kjeuntav7ggdq6e5ko7l915o1o3q20fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArKoc4xRz8E7oDA2V3lj7Jks2R6NOJFKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048237789254-kjeuntav7ggdq6e5ko7l915o1o3q20fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
